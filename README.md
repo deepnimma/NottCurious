@@ -13,3 +13,5 @@ Want To Do:
 * Make a 2D/3D Physics Engine
 * Learn Machine Learning
 * Learn Kotlin (For Minecraft Modding)
+* Finish Learning Sorting Algorithms (Or Atleast Finish All The Sorting Algorithms in The SortingAlgorithms Repo)
+* Finish [LFS](https://linuxfromscratch.org/) and [BLFS](https://linuxfromscratch.org/blfs/) and Make an ISO?
