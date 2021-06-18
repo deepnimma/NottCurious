@@ -9,7 +9,8 @@ Want To Do:
 * Learn How to Commit To Open Source Projects
 * Finish CSES Problemset
 * Finish NottABot-Rewrite
-* Finish NottANotepad
+* ~~Finish NottANotepad~~
+* ~~Finish NottAChessEngine~~
 * Make a 2D/3D Physics Engine
 * Learn Machine Learning
 * Learn Kotlin (For Minecraft Modding)
