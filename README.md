@@ -8,7 +8,7 @@ Want To Do:
 * Finish Learning Java
 * Learn How to Commit To Open Source Projects
 * Finish CSES Problemset
-* Finish NottABot-Rewrite
+* ~~Finish NottABot-Rewrite~~
 * ~~Finish NottANotepad~~
 * ~~Finish NottAChessEngine~~
 * Make a 2D/3D Physics Engine
