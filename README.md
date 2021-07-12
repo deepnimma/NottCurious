@@ -7,7 +7,6 @@ Want To Do:
 * Finish Learning Python
 * Finish Learning Java
 * Learn How to Commit To Open Source Projects
-* Finish CSES Problemset
 * ~~Finish NottABot-Rewrite~~
 * ~~Finish NottANotepad~~
 * ~~Finish NottAChessEngine~~
