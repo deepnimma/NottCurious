@@ -15,4 +15,6 @@ Want To Do:
 * ~~[Blockchain?](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)~~
 * Finish all planned Algorithms in the [Algorithms](https://github.com/NottCurious/Algorithms) repository
 * Learn Machine Learning
-* Finish [NottAGame](https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/)
+* Continue development of [TMIndiaBot](https://github.com/NottCurious/TMIndiaBot)
+* Continue researching how the Trackmania2020 API Works
+* Cybersecurity??
