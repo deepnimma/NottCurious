@@ -18,3 +18,9 @@ Want To Do:
 * Continue development of [TMIndiaBot](https://github.com/NottCurious/TMIndiaBot)
 * Continue researching how the Trackmania2020 API Works
 * Cybersecurity??
+
+<table>
+ 
+![Nimma's github stats](https://github-readme-stats.vercel.app/api?username=NottCurious&theme=radical&show_icons=true)
+
+</table>
