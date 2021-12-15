@@ -25,8 +25,7 @@ Want To Do:
 
 </table>
 
-<table>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=NottCurious&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-</table>
+![Nott's Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nottcurious&theme=solarized_dark)
+![Nott's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nottcurious&theme=solarized_dark)
