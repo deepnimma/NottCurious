@@ -27,6 +27,6 @@ Want To Do:
 
 <table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NottCurious)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NottCurious&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 </table>
