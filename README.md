@@ -24,3 +24,9 @@ Want To Do:
 ![Nimma's github stats](https://github-readme-stats.vercel.app/api?username=NottCurious&theme=radical&show_icons=true)
 
 </table>
+
+<table>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NottCurious)](https://github.com/ryo-ma/github-profile-trophy)
+
+</table>
