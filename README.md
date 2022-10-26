@@ -1,7 +1,7 @@
 # Hey There I'm Deepesh Nimma
 
 
-Currently a 17 Year Old College Student at UGA.
+Currently a 18 Year Old College Student at UGA.
 
 **WIP**
 
